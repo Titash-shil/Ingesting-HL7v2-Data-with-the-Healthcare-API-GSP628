@@ -73,9 +73,9 @@ gcloud healthcare hl7v2-stores create $HL7_STORE_ID --dataset=$DATASET_ID --loca
 
 # Completion Message
 echo
-echo "${GREEN_TEXT}${BOLD_TEXT}=======================================================${RESET_FORMAT}"
+echo "${GREEN_TEXT}${BOLD_TEXT}|||||||||||||||||||||||||||||||||||||||||||||||||||||||${RESET_FORMAT}"
 echo "${GREEN_TEXT}${BOLD_TEXT}              LAB COMPLETED SUCCESSFULLY!              ${RESET_FORMAT}"
-echo "${GREEN_TEXT}${BOLD_TEXT}=======================================================${RESET_FORMAT}"
+echo "${GREEN_TEXT}${BOLD_TEXT}|||||||||||||||||||||||||||||||||||||||||||||||||||||||${RESET_FORMAT}"
 echo
 
 echo -e "${RED_TEXT}${BOLD_TEXT}Subscribe my Channel YT hannel (Qwiklab Explorers):${RESET_FORMAT} ${BLUE_TEXT}${BOLD_TEXT}https://www.youtube.com/@qwiklabexplorers${RESET_FORMAT}"
